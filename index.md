@@ -26,4 +26,8 @@ int main() {
 2. [Thinkercad Tool](https://www.tinkercad.com/)
 3. created a simple led circuit using various components
 ![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%201.png)
+4.led light with switch
 ![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%202.png)
+5.2 led lights with 9V battery
+![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%203.png)
+![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%204.png)
