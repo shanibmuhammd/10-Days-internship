@@ -41,7 +41,7 @@ int main() {
 ![related image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2010-33-40.png)
 3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
 4. make a led light citcuit using arduino![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2011-00-57.png)
-5. program
+5. **program**
 ```
 // C++ code
 //
