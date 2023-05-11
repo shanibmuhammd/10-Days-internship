@@ -36,3 +36,6 @@ int main() {
 
 # Day-3
 > AND GATE using Tinkercad
+1. collect the components that switch,led,resistor,bread board
+2.[tinker the circuit](https://www.tinkercad.com/things/fWawTZhFk7m-swanky-allis/editel)
+![related image]()
