@@ -87,7 +87,34 @@ void loop()
 }
 ```
 8. related image [Tinker the circuit](https://www.tinkercad.com/things/bFUZMSDS44M-arduino-led-blinking/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2012-46-39.png) 
-9. **3 LED circuit with Arduino** 
+9. **3 LED circuit with Arduino**  [Tinker the circuit](https://www.tinkercad.com/things/bbfA9LHBrRQ-copy-of-arduino-led-blinking/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2014-22-24.png)
+**Program**
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(8, OUTPUT);
+  pinMode(13, OUTPUT);
+  pinMode(2, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(800); // Wait for 800 millisecond(s)
+   digitalWrite(13, LOW);
+  delay(800); // Wait for 800 millisecond(s)
+  digitalWrite(8, HIGH);
+  delay(800); // Wait for 800 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(800); // Wait for 800 millisecond(s)
+  digitalWrite(2, HIGH);
+  delay(800); // Wait for 800 millisecond(s)
+   digitalWrite(2, LOW);
+  delay(800); // Wait for 800 millisecond(s)
+}
+```
 
 
 
