@@ -61,7 +61,7 @@ void loop()
 6. **To select the code from the Tinkercad simulator**
 - create the circuit with the components
 - go to the cornor of the screen
-- Then select button named as the CODE  
+- Then select button named as the ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%202023-05-11%20at%2013-39-33%20Circuit%20design%20Tremendous%20Jarv%20Tinkercad.png) 
 - select the TEXT 
 - After the selection it will show the related code ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%202023-05-11%20at%2011-33-09%20Circuit%20design%20Tremendous%20Jarv%20Tinkercad.png)
 7. **program for 2 led blinking**
