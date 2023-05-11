@@ -58,5 +58,9 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
+6. **To select the code from the Tinkercad simulator**
+- select the code from the simulator
+- Then select the TEXT 
+- After the selection it will show the related code
 
 
