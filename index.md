@@ -86,7 +86,7 @@ void loop()
   delay(1000); // Wait for 1500 millisecond(s)
 }
 ```
-8. related image [Tinker the circuit](https://www.tinkercad.com/things/bFUZMSDS44M-tremendous-jarv/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2012-46-39.png) 
+8. related image [Tinker the circuit](https://www.tinkercad.com/things/bFUZMSDS44M-arduino-led-blinking/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2012-46-39.png) 
 
 
 
