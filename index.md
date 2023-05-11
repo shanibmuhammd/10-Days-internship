@@ -35,3 +35,4 @@ int main() {
 7.[Tinker the related circuit](https://www.tinkercad.com/things/edchxo6NsyT-led-/editel)
 
 # Day-3
+> AND GATE using Tinkercad
