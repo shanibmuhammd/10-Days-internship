@@ -87,6 +87,7 @@ void loop()
 }
 ```
 8. related image [Tinker the circuit](https://www.tinkercad.com/things/bFUZMSDS44M-arduino-led-blinking/editel)  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2012-46-39.png) 
+9. **3 LED circuit with Arduino** 
 
 
 
