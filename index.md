@@ -61,6 +61,7 @@ void loop()
 6. **To select the code from the Tinkercad simulator**
 - select the code from the simulator
 - Then select the TEXT 
-- After the selection it will show the related code![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot 2023-05-11 at 11-33-09 Circuit design Tremendous Jarv Tinkercad.png)
+- After the selection it will show the related code
+7. ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot 2023-05-11 at 11-33-09 Circuit design Tremendous Jarv Tinkercad.png)
 
 
