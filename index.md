@@ -32,3 +32,5 @@ int main() {
 ![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%203.png)
 6.3 RGB led with 9V battery
 ![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%204.png)
+
+# Day-3
