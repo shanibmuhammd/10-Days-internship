@@ -122,6 +122,4 @@ void loop()
 3. It's like a game 
 4. The blockly helps to know about the programming easly
 
-# link
-[link](https://drive.google.com/drive/folders/1ud5R8M1ohda8Vx1yxKG-m5SrcIOWtJeK?usp=share_link)
 
