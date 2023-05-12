@@ -117,11 +117,11 @@ void loop()
 ```
 # Day-4
 > introduction to AI & ML
-1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly) 
+1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly) ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
 2. The platform like Blockly are mostly used by  fresher's in programming
-3. It's like a game / pluged to play
+3. It's like a game 
 4. The blockly helps to know about the programming easly
-5. The related picture is shown in below ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
+
 
 
 
