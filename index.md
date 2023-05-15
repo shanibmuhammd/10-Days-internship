@@ -121,6 +121,6 @@ void loop()
 2. The platform like Blockly are mostly used by  fresher's in programming
 3. It's like a game 
 4. The blockly helps to know about the programming easly
-5. To make the 
+5. To create a multifunction program like a calculator 
 
 
