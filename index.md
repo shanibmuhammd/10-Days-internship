@@ -122,9 +122,13 @@ void loop()
 3. It's like a game 
 4. The blockly helps to know about the programming easly
 5. To create a multifunction program like a calculator ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2012-21-17.png)
-6. **AI & ML** 
-> STM 32 NUCLEO DEVELOPMENT BOARD 
-![IMAGE]
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+ 
+![IMAGE](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Untitled.jpeg)
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
 
 # Day-5
 > Introducing drones by NAVANEETH 3rd year student of robotics
