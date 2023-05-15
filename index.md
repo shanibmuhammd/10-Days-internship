@@ -127,10 +127,26 @@ void loop()
 ![IMAGE]
 
 # Day-5
-> Introducing drones and analog reader potentio meter
+> Introducing drones by NAVANEETH 3rd year student of robotics
 1. Introducing Drones
 2. explained about drones parts 
-**Analog reader potentiometer**
-![image](
+> Analog reader potentiometer
+1. [tinker the circuit](https://www.tinkercad.com/things/dFZMDWtXe0k-pot-with-arduino/editel)
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-15%2014-28-50.png)
+2. related program shown in below
+
+**program**
+```
+const int potpin=A0;
+
+void setup() {
+   Serial.begin(9600);
+}
+void loop() {
+  int potValue =analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+}
+```
 
 
