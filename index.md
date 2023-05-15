@@ -133,9 +133,10 @@ void loop()
 # Day-5
 > Introducing drones by NAVANEETH 3rd year student of robotics
 1. Introducing Drones
-2. explained about drones parts 
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
 > Analog reader potentiometer
-1. [tinker the circuit](https://www.tinkercad.com/things/dFZMDWtXe0k-pot-with-arduino/editel)
+4. [tinker the circuit](https://www.tinkercad.com/things/dFZMDWtXe0k-pot-with-arduino/editel)
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-15%2014-28-50.png)
 2. related program shown in below
 
