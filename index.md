@@ -166,7 +166,7 @@ void loop() {
 # Day-7
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
-![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Untitled.jpeg)
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
 
